@@ -1,0 +1,11 @@
+setting,train_fraction,strategy,mean_f1,std_f1,n_labeled
+activeLC_0.01,0.01,active_least_confidence,0.7362146013716878,0.0,1080
+activeLC_0.1,0.1,active_least_confidence,0.8244243407151984,0.0,10800
+activeLC_0.2,0.2,active_least_confidence,0.8494862238693837,0.0,21600
+activeMargin_0.01,0.01,active_margin_sampling,0.8350714742106236,0.0,1080
+activeMargin_0.1,0.1,active_margin_sampling,0.8965257574364692,0.0,10800
+activeMargin_0.2,0.2,active_margin_sampling,0.8993540155965664,0.0,21600
+full_100,1.0,full_train,0.9134284612964068,0.0,108000
+random_0.01,0.01,random,0.8500486801444799,0.002392901293190741,1080
+random_0.1,0.1,random,0.8960150480698743,0.0016904987698389206,10800
+random_0.2,0.2,random,0.8987291197678975,0.0020940051568734907,21600
